@@ -1,1 +1,2 @@
 # Spotify-Analysis-Power-BI-Project
+Developed an interactive Power BI dashboard to analyze Spotify streaming data, focusing on track popularity, album popularity and artist popularity. Utilized advanced DAX for dynamic metrics and Power Query for data transformation. Delivered actionable insights on user listening behavior and music trends, enhancing data-driven decision-making for content strategy.
